@@ -25,7 +25,7 @@ const Nav = () => {
     navigate("/create");
     setIsMobileNavOpen(false);
   };
-
+  
   return (
     <div className="flex h-screen overflow-hidden relative">
       {/* 📱 Mobile Nav Toggle Button */}
